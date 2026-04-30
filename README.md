@@ -1,5 +1,7 @@
 # Hordez_By_xxxnightvoidxxx-Zombie-Survival-
-A modern take on zombie survival. 
+
+A modern take on good old classic zombie survival. 
+
 Copyright [2026] [Robert Barnedt 3]
 
 All rights reserved.
